@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="row">1</string>
+    <string name="col">1</string>
+    <string name="row_col_tag">1</string>
+</resources>
